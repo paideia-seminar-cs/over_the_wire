@@ -7,6 +7,7 @@ password is bandit0
 cat README will display the answer
 
 answer:  boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
 ---
 
 Level 1
@@ -20,6 +21,7 @@ need to read a file named -
 cat ./-   will display the answer
 
 answer:  CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
 ---
 
 Level 2
@@ -31,6 +33,7 @@ password is previous answer
 cat spaces\ in\ this\ filename will display the answer
 
 answer:  UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
 ---
 
 Level 3
@@ -46,6 +49,7 @@ next password is in a hidden file.  use ls -a to find it
 cat .hidden will display the answer
 
 answer:  pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
 ---
 
 Level 4
@@ -59,5 +63,6 @@ cd inhere
 only one of the files is human readable.  It has the password.  You can cat each one.  Use the up arrow to scroll through previous commands
 
 answer:  koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
 ---
 
