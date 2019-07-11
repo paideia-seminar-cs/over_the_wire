@@ -66,3 +66,38 @@ answer:  koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 ---
 
+Level 5
+
+cd inhere
+
+Find the human readalbe, non-executable file with size 1033 bytes.  
+
+use find . -type f -size 1033c 
+
+answer:  DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+---
+
+Level 6
+
+from the root directory, use find . -group bandit6 -user bandit7 -nowarn
+
+answer:  HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+---
+
+Level 7
+
+use grep
+
+answer:  cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+---
+
+Level 8
+
+File contains 1001 lines.  The only non-repeated line is the password
+
+use strings FILENAME to get all the lines.  Send that output to sort.  Send sort's output to uniq -u for the only unique line.
+
+answer:  UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
