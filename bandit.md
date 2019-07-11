@@ -1,4 +1,4 @@
-##Level 0
+Level 0
 ssh -p 2220 bandit0@bandit.labs.overthewire.com
 password is bandit0
 
@@ -7,7 +7,7 @@ cat README will display the answer
 answer:  boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ---
 
-##Level 1
+Level 1
 ssh -p 2220 bandit1@bandit.labs.overthewire.com
 password is previous answer
 need to read a file named -
@@ -17,7 +17,7 @@ cat ./-   will display the answer
 answer:  CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ---
 
-##Level 2
+Level 2
 ssh -p 2220 bandit2@bandit.labs.overthewire.com
 password is previous answer
 
@@ -26,7 +26,7 @@ cat spaces\ in\ this\ filename will display the answer
 answer:  UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ---
 
-##Level 3
+Level 3
 ssh -p 2220 bandit2@bandit.labs.overthewire.com
 password is previous answer
 
@@ -37,7 +37,7 @@ cat .hidden will display the answer
 answer:  pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ---
 
-##Level 4
+Level 4
 ssh -p 2220 bandit4@bandit.labs.overthewire.com
 password is previous answer
 
